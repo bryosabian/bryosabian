@@ -4,7 +4,7 @@
 
 - Currently working at [Ukall Apps](https://ukallapps.com/) as lead mobile application developer
 
-Let's change our world and make it a better place with the little power we have. Let's do big things.
-
 - How to reach me ...sabianbryococ@gmail.com
+
+Let's change our world and make it a better place with the little power we have. Let's do big things.
 
