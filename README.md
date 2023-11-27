@@ -1,4 +1,4 @@
-- Jared Leto alias @bryosabian here
+- Jared Leto alias @sabian here
 - Coding is my passion.
 - I specialize in
   - Android(Kotlin,Java)
