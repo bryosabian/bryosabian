@@ -5,7 +5,9 @@
   - IOS(Swift, SwiftUI)
   - Hybrid (Flutter and Dart)
   
-- I’m currently working on Mobile Applications and Machine Learning
+- I’m working on Mobile Applications
+  
+- Learning Machine Learning
 
 - Currently working at [Ukall Apps](https://ukallapps.com/) as lead mobile application developer
 
