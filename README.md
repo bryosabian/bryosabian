@@ -7,7 +7,7 @@
   
 - I’m working on Mobile Applications
   
-- Learning Machine Learning
+- I'm learning Machine Learning
 
 - Currently working at [Ukall Apps](https://ukallapps.com/) as lead mobile application developer
 
