@@ -7,7 +7,7 @@
   
 - I’m working on Mobile Applications
   
-- I'm learning Machine Learning....get it??
+- I'm a student of Machine Learning....get it??
 
 - Currently working at [Ukall Apps](https://ukallapps.com/) as lead mobile application developer
 
