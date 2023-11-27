@@ -1,9 +1,9 @@
 - Jared Leto alias @bryosabian here
 - Coding is my passion.
 - I specialize in
-  . Android(Kotlin,Java)
-  . IOS(Swift, SwiftUI)
-  . Hybrid (Flutter and Dart)
+  - Android(Kotlin,Java)
+  - IOS(Swift, SwiftUI)
+  - Hybrid (Flutter and Dart)
   
 - I’m currently working on Mobile Applications and Machine Learning
 
