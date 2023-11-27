@@ -1,5 +1,10 @@
 - Jared Leto alias @bryosabian here
-- Coding is my passion. C++,JAVA,Python,C#,Kotlin,Swift,Javascript,PHP are my main languages.
+- Coding is my passion.
+- I specialize in
+  . Android(Kotlin,Java)
+  . IOS(Swift, SwiftUI)
+  . Hybrid (Flutter and Dart)
+  
 - I’m currently working on Mobile Applications and Machine Learning
 
 - Currently working at [Ukall Apps](https://ukallapps.com/) as lead mobile application developer
